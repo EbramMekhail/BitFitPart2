@@ -30,6 +30,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![BitFit](https://github.com/EbramMekhail/BitFit/assets/84204243/6c85d2de-eced-479b-a6a6-0121fd6d334b)
 
 
