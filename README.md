@@ -29,14 +29,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Bitfit2Gif](https://github.com/EbramMekhail/BitfitPart2/assets/84204243/df364dbd-29c2-49ba-87bd-c678a4e2f6c3)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+https://ezgif.com/
 
 ## Notes
 
@@ -44,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ebram Mekhail]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
