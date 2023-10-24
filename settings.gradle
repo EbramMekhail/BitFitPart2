@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BitFit"
+rootProject.name = "BitFitPart2"
 include ':app'

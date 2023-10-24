@@ -1,4 +1,4 @@
-package com.example.bitfit
+package com.example.bitfitPart2
 
 import android.app.Application
 
